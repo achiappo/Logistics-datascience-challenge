@@ -45,3 +45,4 @@ _Tips_
 
 - Think of how to _communicate_ your findings: how do you convince the decision maker (customer) of your approach(es)?
 
+![staff allocation example](https://github.com/achiappo/Logistics-datascience-challenge/blob/main/logistics.png?raw=true)
