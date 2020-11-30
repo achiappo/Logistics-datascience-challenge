@@ -5,7 +5,7 @@ Solution to a Data Science challenge aimed at optimising logistics choices in an
 
 Imagine an Oil &amp; Gas operator with offshore assets (e.g. platforms). These assets require regular visits from staff to carry out safety inspections, maintenance activities, interventions, etc. The _planning_ of these visits is often complex due to different _value drivers_ (e.g., not all activities are equally important and/or urgent) and _uncertainties_ (e.g., weather may change on a daily basis and/or transport vehicles may be temporarily out of service).
 
-1. BUSINESS QUESTION
+2. BUSINESS QUESTION
 
 How to _optimally allocate staff to transport vehicles_ (e.g. helicopters), if the aim is to meet demand with maximum vehicle efficiency whilst being robust against uncertainty?
 
@@ -35,14 +35,9 @@ Assume the following:
 
 - The operator&#39;s aim is to allocate as much staff as possible with as few helicopters as possible.
 
-1. DELIVERABLE
+4. DELIVERABLE
 
 Design one or more approaches that are capable of addressing the business question. Demonstrate the efficiency &amp; robustness of your approach(es).
 
-_Tips_
-
-- Consider the _robustness_ of your approach(es) against the assumptions provided above and any additional assumptions you have made.
-
-- Think of how to _communicate_ your findings: how do you convince the decision maker (customer) of your approach(es)?
 
 ![staff allocation example](https://github.com/achiappo/Logistics-datascience-challenge/blob/main/logistics.png?raw=true)
