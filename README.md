@@ -1,5 +1,6 @@
 # Logistics-datascience-challenge
 Solution to a Data Science challenge aimed at optimising logistics choices in an industry
+A description of the problem follows below; for a more detailed version, refer to *challenge_statement.pdf*
 
 1. CONTEXT
 
